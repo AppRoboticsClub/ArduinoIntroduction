@@ -1,6 +1,6 @@
 # Welcome to the App Robotics Arduino Introduction
 
-![Wiring Guide Image](./ArduinoWiringGuide)
+![Wiring Guide Image](./ArduinoWiringGuide.png)
 
 ```cpp
 // Macros - act like constant variables (cannot be changed).
